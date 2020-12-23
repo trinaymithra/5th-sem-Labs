@@ -9,6 +9,7 @@
 #include<arpa/inet.h>
 #include <errno.h>
 
+// this program checks for palindrome, finds the length of the string and also returns the number of occurrences of each vowel in the string
 int main() {
 	int sockfd, new_sock, len;
 	struct sockaddr_in server,client;
