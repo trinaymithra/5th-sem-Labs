@@ -9,6 +9,7 @@
 #include<arpa/inet.h>
 #include <errno.h>
 
+// this program asks to check for palindrome, and to give number of occurences of vowels in the given string
 int main() {
 	int sockfd, server_port;
 	struct sockaddr_in server;
