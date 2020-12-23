@@ -9,6 +9,7 @@
 #include<arpa/inet.h>
 #include <errno.h>
 
+// this program asks server to search, sort and split an array
 int main() {
 
 	int sockfd, err_check;
