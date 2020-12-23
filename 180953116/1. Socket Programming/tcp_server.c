@@ -9,6 +9,7 @@
 #include<arpa/inet.h>
 #include <errno.h>
 
+// functions provided are search, sort and split and then send the data to client
 int main() {
 	int sock_fd, new_sock, len;
 	struct sockaddr_in server,client;
