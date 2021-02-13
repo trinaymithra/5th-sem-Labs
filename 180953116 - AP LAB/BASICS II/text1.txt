@@ -1,0 +1,8 @@
+hello everyone
+my name is trinay mithra
+this line is 3rd line
+4th line... here we go
+next in the queue is line number 5
+waiting next is the order is the line with identification number 6
+last but one line is eager to be called as line 7
+and this is the last line of the file for this piece of code
